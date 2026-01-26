@@ -106,7 +106,7 @@
     <elementParameter field="CLOSED_LIST" name="ICON" value="INFORMATION_MESSAGE"/>
     <elementParameter field="CHECK" name="ANSWER_MASK" value="false" show="false"/>
     <elementParameter field="MEMO" name="QUESTION_LABEL" value="&quot;Question ?&quot;" show="false"/>
-    <elementParameter field="MEMO" name="MESSAGE" value="&quot;mainブランチのジョブです。&quot;"/>
+    <elementParameter field="MEMO" name="MESSAGE" value="&quot;dev1ブランチのジョブです。&quot;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tMsgBox_1"/>
   </node>
