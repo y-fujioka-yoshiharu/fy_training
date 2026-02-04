@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "__9JJ0PpOEfCTrbd4-4Xgmg",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "FY_TRAINING:_K_w6kAIiEfGYyvqELcmxKw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_3rP88AIhEfGYyvqELcmxKw",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+} ]
