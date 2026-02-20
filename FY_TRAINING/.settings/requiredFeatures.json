@@ -6,6 +6,8 @@
   }, {
     "id" : "org.talend.lite.designer.component.ws.consumer.feature.feature.group"
   }, {
+    "id" : "org.talend.lite.di.components.partitioner.feature.feature.group"
+  }, {
     "id" : "org.talend.lite.di.publish.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.resource.feature.feature.group"
@@ -14,6 +16,24 @@
   }, {
     "id" : "org.talend.lite.esb.apidesigner.feature.feature.group"
   }, {
+    "id" : "org.talend.studio.components.tck.chunk.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.claude.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.embeddingAI.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.gemini.feature.feature.group"
+  }, {
     "id" : "org.talend.studio.components.tck.httpclient.connector.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.ollama.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.openai.connector.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.pinecone.studio.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.qlik.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tck.qvd.output.feature.feature.group"
   } ]
 }
