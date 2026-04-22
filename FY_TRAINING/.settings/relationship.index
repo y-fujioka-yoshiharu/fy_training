@@ -46,26 +46,4 @@
     "version" : "Latest",
     "type" : "context"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_QDp8AAYkEfGFOq8hCfEn5w",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_K_w6kAIiEfGYyvqELcmxKw",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_oD8l4AYcEfGFOq8hCfEn5w",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_K_w6kAIiEfGYyvqELcmxKw",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
