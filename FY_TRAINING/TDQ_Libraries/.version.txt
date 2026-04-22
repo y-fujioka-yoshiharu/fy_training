@@ -1,0 +1,3 @@
+#Wed Apr 22 13:26:13 JST 2026
+displayVersion=8.0.1.20260319_1057-patch
+version=8.0.1
