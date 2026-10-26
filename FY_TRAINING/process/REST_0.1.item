@@ -155,7 +155,7 @@
     <elementParameter field="RADIO" name="USE_SINGLEMODE" value="true"/>
     <elementParameter field="TABLE" name="VALUES">
       <elementValue elementRef="SCHEMA_COLUMN" value="body" id="0"/>
-      <elementValue elementRef="VALUE" value="&quot;testジョブ出力&quot;" id="1"/>
+      <elementValue elementRef="VALUE" value="&quot;testジョブ出力_body&quot;" id="1"/>
     </elementParameter>
     <elementParameter field="RADIO" name="USE_INTABLE" value="false"/>
     <elementParameter field="TABLE" name="INTABLE" show="false"/>
